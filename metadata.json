@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "AI-powered decision analysis workbench featuring Pros & Cons, Comparison Tables, SWOT Grids, Weighted Priority Sliders, and Devil's Advocate stress-testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
